@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+#menubar
+{
+    background-color: black;
+    width: 420px;
+}
+ul li
+{
+    display: inline;
+    list-style-type: none;
+    padding: 0px 15px;
+}
+ul li a
+{
+    text-decoration: none;
+    color:gold;
+    font-size: 20px;
+    font-weight: bold;
+}
+ul li a:hover
+{
+    color: silver;
+}

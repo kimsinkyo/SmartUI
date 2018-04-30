@@ -1,0 +1,25 @@
+@charset "utf-8";
+a{
+    color: black;
+    text-decoration: none; 
+}
+a:hover{
+    text-decoration: underline;
+    color: gray;
+}
+.info{
+    float: right;
+    margin-right: 20px;
+}
+#google_img{
+    margin-left: calc(50% - 146px);
+    margin-top: 200px; 
+}
+
+#search{
+    margin-top: 20px;
+    margin-left: calc(50% - 331px);
+    width: 662px;
+    height: 42px;
+    font-size: 14px;
+}

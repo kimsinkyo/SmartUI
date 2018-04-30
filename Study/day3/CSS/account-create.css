@@ -1,0 +1,158 @@
+@charset "utf-8";
+
+#box1
+{
+    width: 700px;
+    height: 551px;
+    margin-left: calc(50% - 350px);
+    margin-top: 100px;
+    border-style: none;
+    box-shadow: 0px 1px 2px gray;
+}
+#box2
+{
+    display: inline-block;
+    width: 700px;
+    height: 550px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-style: none;
+}
+#leftbox
+{  
+    display: inline-block;
+    padding-left: 40px;
+    width: 380px;
+    height: 467px;
+}
+#rightbox
+{
+    display: inline-block;
+    padding-left: 24px;
+    width: 252px;
+    height: 467px;
+}
+#googlelogo{
+    margin-top: 30px;
+    width: 72px;
+    height: 24px;
+}
+.account-create
+{
+    margin: 0;
+    padding-top: 12px;
+    font-size: 24px;
+    font-weight: 400px;
+}
+.gotoGmail
+{
+    margin: 0;
+    padding-top: 1px;
+    padding-bottom: 3px;
+    font-size: 15px;
+}
+.name
+{
+    width: 185px;
+    font-size: 15px;
+    display: inline-block;
+    border-style: none;
+    padding-top: 48px; 
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+}
+#username
+{
+    width: 285px;
+    font-size: 15px;
+    display: inline-block;
+    border-style: none;
+    padding-top: 34px; 
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+}
+#usermail
+{
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+}
+#dis
+{
+    margin: 0;
+    padding-top: 5px;
+    width: 370px;
+    height: 25px;
+    font-size: 13px;
+}
+#password
+{
+    width: 153px;
+    height: 24px;
+    font-size: 15px;
+    display: inline-block;
+    border-style: none;
+    padding-top: 24px; 
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+}
+#password_re
+{
+    width: 153px;
+    height: 24px;
+    font-size: 15px;
+    display: inline-block;
+    border-style: none;
+    padding-top: 24px; 
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+}
+#passdis
+{
+    font-size: 12px;
+}
+
+#log_in{
+    font-size: 15px;
+    color: dodgerblue;
+    text-decoration: none;
+}
+#next
+{
+    width: 88px;
+    height: 36px;
+    border-style: none;
+    border-radius: 2px;
+    margin:0px 0px 0px  180px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: dodgerblue;
+} 
+
+#notice
+{
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+}
+#box4
+{
+    position: absolute;
+    top: 200px;
+    left: calc(50% + 70px);
+    width: 244px;
+    height: 244px;
+    margin: 0;
+    
+}
+#gmailpic
+{
+    margin: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+}

@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#cat_photo
+{
+    box-shadow: 5px 5px 5px darkblue;
+}
+#empty_box
+{
+    width: 100px;
+    height: 100px;
+    box-shadow: 5px 5px 5px red inset;
+}
+#cat_photo:hover
+{
+    cursor: pointer;
+}

@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+p{
+    font-size: 20px;
+    font-weight: 700px;   
+}
+
+.Hello
+{
+ text-shadow: 5px 5px 5px gold;
+}
+.Hello1
+{
+ text-shadow: 3px 3px;
+}
+.Hello2
+{ 
+ text-shadow: 3px 3px red;
+}
+.Hello3
+{  
+ text-shadow: 3px 3px 5px skyblue;
+}
+.Hello4
+{
+ text-shadow: 0px 0px 3px red;
+}
+.Hello5
+{
+ color: white;
+ text-shadow: 0px 0px 3px darkblue;
+}
+.Hello6
+{  
+ color: white;
+ text-shadow: 2px 2px 4px black;
+}
+.Hello7
+{
+ color: yellow;
+ text-shadow: 2px 2px 2px black, 0px 0px 25px blue, 0px 0px 5px darkblue;
+}

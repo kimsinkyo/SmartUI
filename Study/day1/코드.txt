@@ -1,0 +1,45 @@
+태그
+p: 문장
+br: 엔터
+h*: 제목
+hr: 가로줄
+a: 하이퍼링크
+b: 글자 굵게
+i: 글자 기울기
+ins: 글자 줄긋기
+del: 취소선
+sub: 아래쓰기
+sup: 위쓰기
+img: 사진
+li: 리스트
+ol: 숫자리스트
+ul: 특수기호리스트
+table: 테이블 생성
+td: 테이블 데이터
+th: 테이블 제목
+tr: 테이블 행
+thead: 테이블 윗부분
+tbody: 테이블 본문
+tfoot: 테이블 마지막
+caption: 테이블 제목
+audio: 음악파일
+form: 형식
+input: 기능 추가
+div:구역 나누기
+datalist: 텍스트 박스 리스트
+
+
+
+
+&nbsp: 공백
+href: 참조 링크
+src: 사진이 있는 주소
+alt: 대체할 사진이 있는 주소
+width: 사진의 가로 크기
+height: 사진의 세로 크기
+colspan: 테이블 가로 셀 합치기
+rowspan: 테이블 세로 셀 합치기
+border: 테이블 선
+list: 텍스트 박스 리스트
+target: 클릭시 옵션
+download: 

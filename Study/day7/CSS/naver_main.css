@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+.container
+{
+    padding: 0;
+}
+#top
+{
+    padding: 0;
+}
+#banner
+{
+    width: 740px;
+    height: 120px;    
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#news
+{
+    margin-left: 0;
+    padding: 0;
+    text-align: center;
+}
+#news_comp
+{
+    padding: 0;
+    margin: 0;
+}
+#login
+{
+    margin: 0;
+}
+.box-left
+{
+    padding: 0;
+    margin: 0;
+  
+}
+.box-right
+{
+   padding: 0; 
+    margin: 0;
+   
+}
+#news_table
+{
+    padding: 0;
+    width: 665px;
+    height: 180px;
+}
+td
+{
+    width: 133px;
+    height: 59px;
+}
+.news_comp
+{
+    margin-top: 20px;
+}
+#yeonhab
+{
+    margin-top: 20px;
+    height: 56px;
+    padding-top: 16px;
+}
+#login_button
+{
+    width: 67px;
+    height: 67px;
+}
+span{
+    float: right;
+    text-align: center;
+    height: 36px;
+    font-size: 14px;
+}
+a
+{
+    padding: 10px 10px 10px 10px;
+ 
+}
+.news_table
+{
+    float: left;
+    padding-top: 8px;
+}

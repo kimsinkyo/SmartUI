@@ -1,0 +1,371 @@
+@charset "utf-8";
+
+.navbar .container
+{
+    max-width: 1100px;
+}
+.container
+{
+    max-width: 1100px;
+    padding: 0px 10px 10px 10px;
+}
+.container .row
+{
+    margin-top: 10px;
+}
+.container .row .login-box
+{
+    margin: 0px;
+}
+.navbar  .navbar-nav .nav-item-green
+{
+    color: #00c73c;
+    font-weight: 600;
+}
+.navbar  .navbar-nav .nav-item-black
+{
+    color: #000000;
+    font-weight: 600;
+}
+.row
+{
+    margin: 0;
+}
+.left-box
+{
+    width: 745px;
+    padding-right: 5px;
+}
+.right-box
+{
+    width: 335px;
+    padding-left: 5px;
+}
+body
+{
+ background-color: #f2f4f7;
+}
+.input-info
+{
+    width: 148px;
+    height: 68px;
+    margin: 20px 0px 0px 15px;
+}
+.btn-login
+{
+    width: 67px;
+    height: 67px;
+    margin: 20px 0px 0px 0px;
+    background-color: #00c73c;
+    color: #f2f4f7;
+    font-size: 12px;
+    font-weight: 900;
+}
+.security
+{
+    width: 77px;
+    height: 68px;
+    margin: 20px 0px 0px 5px;
+    font-size: 11px;
+    color: #888;
+}
+.login-box
+{
+    background-color: white;
+    height: 120px;
+    border: solid 1px #dee3eb;
+}
+.text-login
+{
+    margin-top: 24px;
+    text-align: center;
+}
+.id-input
+{
+    width: 148px;
+    height: 34px;
+    font-size: 12px;
+}
+.password-input
+{
+    width: 148px;
+    height: 34px;   
+    font-size: 12px; 
+    margin-top: -1px;
+}
+button
+{
+    padding: 0px;
+}
+.ip-security
+{
+    height: 33px;
+    width: 74px;
+    background-color: #fff;
+    border: solid 1px #f1f3f6;
+    border-width: 1px; 
+}
+.temp-login
+{
+    height: 33px;
+    width: 74px;
+    background-color: #fff;
+    border: solid 1px  #f1f3f6;
+    border-width: 1px;
+    margin-top: -1px;
+}
+.news
+{
+    width: 740px;
+    height: 46px;
+    background-color: white;
+    border: solid 1px #dee3eb;
+    padding: 10px 0px 0px 16px;
+}
+.news-stand
+{
+    width: 740px;
+    height: 246px;
+    margin-top: 10px;
+    background-color: white;
+    border: solid 1px #dee3eb;
+    padding: 0px 5px 5px 0px;
+}
+.notice-news
+{
+    width: 332px;
+    height: 142px;
+    background-color: white;
+    border: solid 1px #dee3eb;
+}
+.ad-banner
+{
+    width: 330px;
+    height: 150px;
+    margin-top: 10px;
+    background-color: white;
+    border: none 1px #dee3eb;
+}
+.news .yeonhab
+{
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+.news .sub-news
+{
+    font-size: 13px;
+    font-weight: 700;
+}
+.news .pop-news
+{
+    font-size: 12px;
+    font-weight: 700;
+    color: black;
+    width: 340px; 
+    padding-right: 60px;
+}
+.news-stand .news_table
+{
+    padding: 0;
+    width: 740px;
+    height: 192px;
+}
+td
+{
+    width: 123px;
+    height: 63px;
+}
+.news-stand .n-stand
+{
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+    padding-left: 16px;
+   
+}
+.news-stand .headline
+{
+   width: 740px;
+   height: 45px;
+   padding-top: 5px;
+}
+.news .success
+{
+    color: #00c73c;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0px 2px 0px 2px;
+}
+.news .muted
+{
+    color: grey;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0px 2px 0px 2px;
+}
+.news-stand .muted
+{
+    color: grey;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0px 2px 0px 2px;
+    padding-right: 300px;
+}
+.news-stand .dark
+{
+    color: black;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0px 2px 0px 2px;
+    padding-right: 5px;
+}
+.fa 
+{
+    padding-right: 15px;
+}
+.fas 
+{
+    color: gainsboro;
+}
+.fas:hover
+{
+    color: #000;
+}
+.bar
+{
+    padding: 0px 5px 5px 0px;
+    color: #888;
+    font-weight: 100;
+}
+.headline .left-angle
+{
+    border-left: gainsboro; 
+    border-left-width: 1px;
+    color: #888;
+    height: 44px;
+}
+.headline .right-angle
+{
+    border-left: gainsboro; 
+    border-left-width: 1px;
+    color: #888;
+    height: 44px;
+}
+.headline .left-angle:hover
+{
+    color: #00c73c;
+}
+.headline .right-angle:hover
+{
+    color: #00c73c;
+}
+.date
+{
+    height: 33px;
+    border: solid 1px #f1f3f6;
+    padding: 7px 0px 9px 0px;
+}
+.stock
+{
+    height: 106px;
+}
+.date .date-1
+{
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+}
+.date .muted
+{
+    color: grey;
+    font-size: 13px;
+    font-weight: 700;
+}
+.date .bar
+{
+    padding: 0px 5px 5px 0px;
+}
+.date .date-week
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+.kospy
+{
+    width: 150px;
+    height: 72px;
+    display: inline-block;
+    padding: 16px 0px 8px 9px;
+}
+.kospy:hover
+{
+    text-decoration: none;
+}
+.kosdac
+{
+    width: 150px;
+    height: 72px;
+    display: inline-block;
+    padding: 16px 0px 8px 9px;
+}
+.kosdac:hover
+{
+    text-decoration: none;
+}
+.kospy-dt
+{
+    font-size: 12px;
+    color: #888;
+}
+.kospy-dd
+{
+    font-size: 24px;
+    color: #000;
+    line-height: 31px;
+}
+.kospy-dd:hover
+{
+    text-decoration: underline;
+}
+dd
+{
+    display: inline-block;
+}
+.dd-detail
+{
+    font-size: 12px;
+    line-height: 31px;
+    color: blue;
+}
+.stock-search
+{
+    height: 30px; 
+   
+}
+.input-search
+{
+    height: 22px;
+    width: 120px;
+    border: solid 2px blue;
+    border-right:none; 
+ }
+ .search-icon
+ {
+    width: 22px;
+    height: 30px;
+    background-color: #888;
+ }
+ .stock-search .row
+ {
+    padding: 0;
+    margin: 0;  
+ }
+ .list-icon
+ {
+     padding-right: 15px;
+ }
+ .cog-icon
+ {
+     padding-right: 15px;
+ }
